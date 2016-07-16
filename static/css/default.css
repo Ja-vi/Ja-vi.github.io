@@ -1,9 +1,10 @@
 body{
-	background: #d0d2d2;
+	background: #d0d0d0;
 }
 
 header{
     width: 100%;
+	background: #FFFFFF
     position: fixed; 
     top: 0;
     height: 110px !important;
